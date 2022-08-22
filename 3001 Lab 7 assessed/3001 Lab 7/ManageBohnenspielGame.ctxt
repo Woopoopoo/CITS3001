@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ManageBohnenspielGame
+comment0.text=\r\n\ Manages\ a\ single\ game\ of\ Bohnenspiel\ between\ an\ "intelligent"\ player\ and\ a\ built-in\ player.\ \r\n
+comment1.params=p\ b
+comment1.target=ManageBohnenspielGame(BohnenspielPlayer,\ BohnenspielPlayerBuiltin)
+comment1.text=\r\n\ Constructs\ and\ plays\ a\ game\ of\ Bohnenspiel\ between\ p\ and\ b.\r\n
+comment2.params=
+comment2.target=int\ getResult()
+comment2.text=\ \r\n\ Returns\ the\ result\ in\ points.\r\n
+comment3.params=
+comment3.target=int\ playGame()
+comment3.text=\r\n\ Plays\ a\ game\ of\ Bohnenspiel\ between\ p\ and\ b.\ \r\n\ Returns\ the\ points\ for\ the\ player.\r\n
+numComments=4

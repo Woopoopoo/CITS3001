@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Farbe
+comment0.text=\r\n\ Enumerates\ the\ colours\ in\ Bohnenspiel.\r\n
+comment1.params=
+comment1.target=Farbe\ first()
+comment1.text=\r\n\ Returns\ the\ first\ player\ to\ move.\r\n
+comment2.params=f
+comment2.target=Farbe\ flip(Farbe)
+comment2.text=\r\n\ Returns\ the\ colour\ opposite\ to\ f.\ \r\n
+numComments=3

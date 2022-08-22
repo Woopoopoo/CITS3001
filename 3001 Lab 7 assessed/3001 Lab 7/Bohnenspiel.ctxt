@@ -1,0 +1,36 @@
+#BlueJ class context
+comment0.target=Bohnenspiel
+comment1.params=
+comment1.target=Bohnenspiel()
+comment1.text=\r\n\ Constructs\ the\ starting\ position\ of\ a\ game\ of\ Bohnenspiel.\ \r\n
+comment10.params=n
+comment10.target=java.lang.String\ pad(int)
+comment10.text=\r\n\ Returns\ n\ >\=\ 0\ set\ in\ four\ spaces.\r\n
+comment11.params=sc\ moved
+comment11.target=void\ drawBoard(SimpleCanvas,\ int)
+comment11.text=\r\n\ Displays\ the\ current\ board\ state\ on\ sc.\r\n
+comment2.params=b\ ss\ f
+comment2.target=Bohnenspiel(int[],\ int[],\ Farbe)
+comment2.text=\r\n\ Sets\ up\ an\ arbitrary\ Bohnenspiel\ position.\ \r\n\ Checks\ the\ position\ for\ plausibility\ and\ makes\ new\ copies\ of\ the\ arrays.\ \r\n
+comment3.params=
+comment3.target=int[]\ getBoard()
+comment3.text=\r\n\ Returns\ a\ copy\ of\ the\ board.\r\n
+comment4.params=
+comment4.target=int[]\ getStores()
+comment4.text=\r\n\ Returns\ a\ copy\ of\ the\ stores.\r\n
+comment5.params=
+comment5.target=boolean\ isOver()
+comment5.text=\r\n\ Returns\ the\ game\ status.\r\n
+comment6.params=farbe
+comment6.target=Bohnenspiel\ copyGame(Farbe)
+comment6.text=\r\n\ Returns\ a\ copy\ of\ this\ game.\r\n
+comment7.params=
+comment7.target=void\ gameOver()
+comment7.text=\r\n\ Sets\ the\ game\ status\ to\ true\ iff\ the\ game\ is\ over.\ \r\n
+comment8.params=h
+comment8.target=void\ move(int)
+comment8.text=\r\n\ Performs\ move\ h\ for\ player\ turn.\ \r\n
+comment9.params=m
+comment9.target=void\ display(int)
+comment9.text=\r\n\ Displays\ the\ current\ board\ after\ move\ m.\r\n
+numComments=12
